@@ -1,4 +1,1 @@
-## Hey, I'm irgendein-mensch 👋
-[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/978638516676349994)
-
-- I like working in Python and Java
+## If you keep calculating π to more and more decimal places, does that mean you’re getting closer to understanding infinity, or are you just chasing an endless illusion that never truly gets any closer?
