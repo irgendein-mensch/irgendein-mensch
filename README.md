@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🚀 Coding cool stuff! Mostly backend (FastAPI), Discord bots & Minecraft plugins. Always ready to learn new things!</p>
+<p align="left">🚀 Coding cool stuff! Mostly backend, Discord bots & Minecraft plugins. Always ready to learn new things!</p>
 
 ###
 
