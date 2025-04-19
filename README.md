@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/irgendein-mensch1/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/irgendein-mensch/count.svg?"  />
 </div>
 
 ###
