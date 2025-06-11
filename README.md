@@ -75,8 +75,8 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irgendein-mensch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=irgendein-mensch&theme=vue-dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irgendein-mensch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=irgendein-mensch&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </p>
 
 ###
