@@ -1,18 +1,52 @@
-<h1 align="center">👋 Hey, I’m irgendein-mensch</h1>
-
 <p align="center">
-  <em>Building backends, automating stuff and occasionally making software that doesn't crash on first try. Sometimes :)</em>
+  <img src="top.png" alt="Profile banner" />
 </p>
 
 <p align="center">
-  <sub>Currently into AI driven apps & funny/useful systems | Python, Java, JS</sub>
+  <em>I write code, build random projects and spend way too much time fixing problems I probably created myself :)</em>
 </p>
 
----
+<p align="center">
+  <sub>Got an idea? Let's make it happen (what could possibly go wrong)</sub>
+</p>
 
-## ⚙️ Tech Stack  
 
-#### Languages  
+
+## 🚀 Projects & Stuff
+
+<details>
+<summary><b>🍪 Cookie</b></summary>
+<br>
+
+I'm part of the development team behind **Cookie**, a Discord bot packed with features like economy, leveling, moderation, tickets and more.
+
+[![](https://api.cookieapp.me/badge/users)](https://cookieapp.me)
+[![](https://api.cookieapp.me/badge/guilds)](https://cookieapp.me)
+[![](https://api.cookieapp.me/badge/cookies)](https://cookieapp.me)
+
+</details>
+
+<details>
+<summary><b>💭 Soulshine</b></summary>
+<br>
+
+Soulshine is a community I created where I spend most of my time on Discord. It's a place to game, chat and just hang out.
+
+[![Discord](https://img.shields.io/discord/1320723057664589925?label=Soulshine&logo=discord&logoColor=white&color=5865f2)](https://discord.gg/soulshine)
+
+</details>
+
+<details>
+<summary><b>🌐 Portfolio</b></summary>
+<br>
+
+Not started yet, but it's coming... eventually. Future me will handle it. Until then, my repos are the portfolio :)
+
+</details>
+
+## ⚙️ Tech Stack
+
+**Languages**
 <div>
   <img src="https://skillicons.dev/icons?i=py" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" height="40"/>
@@ -21,27 +55,24 @@
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
 </div>
 
-#### Frameworks & Tools  
+**Backend & Tools**
 <div>
   <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" height="40"/>
   <img src="https://skillicons.dev/icons?i=nginx" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
 </div>
 
-#### Databases  
+**Databases**
 <div>
   <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
   <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
 </div>
 
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=irgendein-mensch&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com/?user=irgendein-mensch&theme=github_dark&hide_border=true&  cache_seconds=86400" alt="4's GitHub Streak" height="150"/>
 </p>
 
 ---
@@ -51,5 +82,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="22" alt="discord logo"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=your-irgendein-mensch&color=lightgrey&style=flat" height="22"/>
+  <img src="https://komarev.com/ghpvc/?username=irgendein-mensch&color=lightgrey&style=flat" height="22"/>
 </div>
