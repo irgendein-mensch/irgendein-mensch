@@ -72,7 +72,7 @@ Not started yet, but it's coming... eventually. Future me will handle it. Until 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=irgendein-mensch&theme=github_dark&hide_border=true&  cache_seconds=86400" alt="4's GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Irgendein-mensch&theme=github-dark&hide_border=true" alt="irgendein-mensch's GitHub Streak" height="150"/>
 </p>
 
 ---
